@@ -36,6 +36,8 @@
                 condition = System.Convert.ToDouble(txtCondition.Text.Trim()),
                 level = System.Convert.ToDouble(txtLevel.Text.Trim());
 
+            if (level == 0) return;
+
             double points = (force + brain + intuition + condition) / level;
 
             lblAMax.Text = (points * level).ToString();
