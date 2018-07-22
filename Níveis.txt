@@ -1,0 +1,14 @@
+-------------|--------------------------------------|
+Nível        |  Valor                               |
+Terrível     |  Menor que 10                        |
+Ruim	     |  Maior ou igual a 10 e menor que 20  |
+Fraca	     |  Maior ou igual a 20 e menor que 30  |
+Boa	     |  Maior ou igual a 30 e menor que 40  |
+Formidável   |  Maior ou igual a 40 e menor que 50  |
+Magnífica    |  Maior ou igual a 50 e menor que 60  |
+Sobrenatural |  Maior ou igual a 60 e menor que 70  |
+Titânica     |  Maior ou igual a 70 e menor que 80  |
+Mítica	     |  Maior ou igual a 80 e menor que 90  |
+Mágica	     |  Maior ou igual a 90 e menor que 100 |
+Lendária     |  Maior que 100                       |
+-------------|--------------------------------------|

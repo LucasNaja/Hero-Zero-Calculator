@@ -1,7 +1,7 @@
 # Hero Zero Calculadora
 
 ## Informações
-- **Use [ILmerge](https://www.microsoft.com/en-us/download/details.aspx?id=17630) para juntar o programa com as DLL's do [MetroFramework](https://www.nuget.org/packages/MetroModernUI/).
+- **Use [ILMerge](https://www.microsoft.com/en-us/download/details.aspx?id=17630) para juntar o programa com as DLL's do [MetroFramework](https://www.nuget.org/packages/MetroModernUI/).**
 
 ## Scan: [Clique aqui](https://www.virustotal.com/#/file/f271b16a325e2701060969a2dc9214927bd4b041d1e1c5555ca68c79b22c0720/detection)
 - **Livre de Vírus e Trojans**
