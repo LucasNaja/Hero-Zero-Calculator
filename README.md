@@ -7,6 +7,6 @@
 - **Livre de Vírus e Trojans**
 - **Código limpo**
 
-## Download: [Clique aqui](https://drive.google.com/uc?authuser=0&id=1JajKYfPbkKOwrPJDzubakGjq6A4XhfZw&export=download)
+## Download: [Clique aqui](https://drive.google.com/uc?authuser=0&id=1zBwjVWqAxgdqrxJ4tDOo-fZRo7Ipzf8O&export=download)
 
 <img align="center" src="https://i.imgur.com/Kq46917.png">
